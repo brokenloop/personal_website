@@ -1,1 +1,2 @@
-welcome to brokenloop's github page!
+Welcome to my github page!
+Click [here] to see my resume.
